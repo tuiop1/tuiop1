@@ -15,3 +15,8 @@ Focused on Java and backend development.
 
 ## Current Focus
 Deepening knowledge in Spring Boot and REST API development.
+
+## Contact
+Email: tymurkurkov@gmail.com 
+LinkedIn: www.linkedin.com/in/tymur-kurkov-a42409389
+Discord: tuiop
